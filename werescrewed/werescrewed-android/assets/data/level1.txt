@@ -1,0 +1,65 @@
+## alphabot specific assets index
+
+@ bg /levels/alphabot/alphabot-interior.png
+#@ outline /levels/alphabot/alphabot-outline.png
+## uncomment line below to do only black outlines for alphabot
+@ outline /common/black.png
+@ fg /levels/alphabot/alphabot-fg.png
+@ tilecolor 237 123 0
+
+##music
+/common/music/waltz.mp3
+
+##sounds
+/common/sounds/inceptionbutton.mp3
+/levels/alphabot/sounds/Engine.ogg
+/levels/alphabot/sounds/gear.ogg
+/levels/alphabot/sounds/arm_move_begin.ogg
+/levels/alphabot/sounds/arm_move_loop.ogg
+/levels/alphabot/sounds/arm_move_end.ogg
+/levels/alphabot/sounds/fireworks1.ogg
+/levels/alphabot/sounds/fireworks2.ogg
+/levels/alphabot/sounds/applause_action.ogg
+/levels/alphabot/sounds/applause_final.ogg
+
+##stage assets
+/levels/alphabot/theater_floor_seats_stage.pack
+/levels/alphabot/light_curtain.pack
+/levels/alphabot/dome_small.pack
+
+
+
+##decals and such
+/levels/alphabot/foot_shin_thigh.pack
+/levels/alphabot/knee_chest_in.pack
+/levels/alphabot/engine.pack
+/common/chest-engine.png
+/levels/alphabot/chest_pipes_thigh_pipes.pack
+/levels/alphabot/left-arm-internal.pack
+/levels/alphabot/head_left.pack
+/levels/alphabot/head_right.pack
+/levels/alphabot/chest_exterior_lower.pack
+/levels/alphabot/chest_exterior_middle.pack
+/levels/alphabot/chest_exterior_upper1.pack
+/levels/alphabot/chest_exterior_upper2.pack
+/levels/alphabot/chest2.pack
+/levels/alphabot/arm_ex.pack
+/levels/alphabot/right-leg.pack
+
+
+
+##Alphabot skeleton textures
+/levels/alphabot/alphabot_texture_tux.png
+
+
+/levels/alphabot/shoe_testing/shoe_background_1024.png
+
+## Alphabot panel thing
+/levels/alphabot/alphabot-panel.pack
+
+## Firework ending particles
+fireworks/firework1.p
+fireworks/firework2.p
+fireworks/firework3.p
+fireworks/firework4.p
+fireworks/firework5.p

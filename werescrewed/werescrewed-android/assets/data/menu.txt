@@ -1,0 +1,10 @@
+##menu assets
+/menu/menu-textures.pack
+/menu/transition.png
+
+##temp background
+#/common/menu_placeholder.png
+
+##background music
+/menu/menuTheme.mp3
+/menu/trophy-credits.mp3

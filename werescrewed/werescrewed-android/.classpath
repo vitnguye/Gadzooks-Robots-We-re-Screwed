@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/werescrewed"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="/werescrewed/libs/gdx.jar" sourcepath="/werescrewed/libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/werescrewed/libs/bodyeditor-loader.jar" sourcepath="/werescrewed/libs/bodyeditor-loader-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/werescrewed/libs/tween-engine-api.jar" sourcepath="/werescrewed/libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-controllers-android.jar" sourcepath="libs/gdx-controllers-android-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/werescrewed/libs/gdx-controllers.jar" sourcepath="/werescrewed/libs/gdx-controllers-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

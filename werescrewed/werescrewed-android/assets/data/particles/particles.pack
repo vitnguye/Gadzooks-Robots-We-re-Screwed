@@ -1,0 +1,124 @@
+particles.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+offset: 0, 0
+cloud1
+  rotate: false
+  xy: 132, 2
+  size: 50, 40
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+doof
+  rotate: false
+  xy: 313, 2
+  size: 128, 64
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+fire_whisp
+  rotate: false
+  xy: 443, 2
+  size: 357, 401
+  orig: 178, 200
+  offset: 0, 0
+  index: -1
+wind1
+  rotate: false
+  xy: 936, 405
+  size: 81, 32
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+spark
+  rotate: false
+  xy: 926, 405
+  size: 8, 92
+  orig: 4, 46
+  offset: 0, 0
+  index: -1
+wind2
+  rotate: false
+  xy: 2, 808
+  size: 60, 31
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+screw
+  rotate: false
+  xy: 860, 405
+  size: 64, 64
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+wind3
+  rotate: false
+  xy: 64, 808
+  size: 94, 39
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+flame
+  rotate: false
+  xy: 361, 405
+  size: 333, 337
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+wind4
+  rotate: false
+  xy: 160, 808
+  size: 56, 41
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+oof
+  rotate: false
+  xy: 696, 405
+  size: 128, 64
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+wind5
+  rotate: false
+  xy: 218, 808
+  size: 98, 50
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+arg
+  rotate: false
+  xy: 2, 2
+  size: 128, 64
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 184, 2
+  size: 77, 51
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 826, 405
+  size: 32, 32
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fire_whisp_flip
+  rotate: false
+  xy: 2, 405
+  size: 357, 401
+  orig: 178, 200
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 263, 2
+  size: 48, 39
+  orig: 24, 19
+  offset: 0, 0
+  index: -1

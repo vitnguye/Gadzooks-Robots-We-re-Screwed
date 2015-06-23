@@ -1,0 +1,19 @@
+knee_chest_in.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+offset: 0, 0
+chest1
+  rotate: false
+  xy: 2, 2
+  size: 1508, 922
+  orig: 1508, 922
+  offset: 0, 0
+  index: -1
+left-knee
+  rotate: false
+  xy: 2, 926
+  size: 763, 716
+  orig: 763, 716
+  offset: 0, 0
+  index: -1

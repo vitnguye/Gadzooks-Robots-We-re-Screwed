@@ -1,0 +1,12 @@
+mountains-back-clouds.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+offset: 0, 0
+mountains
+  rotate: false
+  xy: 2, 2
+  size: 1280, 753
+  orig: 1280, 753
+  offset: 0, 0
+  index: -1

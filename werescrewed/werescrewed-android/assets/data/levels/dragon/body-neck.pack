@@ -1,0 +1,40 @@
+body-neck.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+offset: 0, 0
+legs_middle
+  rotate: false
+  xy: 1299, 1007
+  size: 732, 99
+  orig: 732, 99
+  offset: 0, 0
+  index: -1
+legs_right
+  rotate: false
+  xy: 1442, 4
+  size: 517, 404
+  orig: 517, 404
+  offset: 0, 0
+  index: -1
+legs_left
+  rotate: false
+  xy: 1442, 414
+  size: 483, 406
+  orig: 483, 406
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 4, 1007
+  size: 1289, 906
+  orig: 1289, 906
+  offset: 0, 0
+  index: -1
+body_left
+  rotate: false
+  xy: 4, 4
+  size: 1432, 997
+  orig: 1432, 997
+  offset: 0, 0
+  index: -1

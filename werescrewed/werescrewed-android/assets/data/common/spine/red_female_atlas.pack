@@ -1,0 +1,187 @@
+red_female_atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+offset: 0, 0
+R_lower_arm
+  rotate: false
+  xy: 154, 2
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+back/hat_back
+  rotate: false
+  xy: 175, 2
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+F_hat
+  rotate: false
+  xy: 60, 2
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 114, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 185
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+back/R_upper_arm_back
+  rotate: false
+  xy: 138, 2
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+lower_skirt
+  rotate: false
+  xy: 63, 185
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+back/L_upper_arm_back
+  rotate: false
+  xy: 160, 2
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+back/R_lower_arm_back
+  rotate: false
+  xy: 123, 2
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: false
+  xy: 98, 55
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L_upper_arm
+  rotate: false
+  xy: 138, 2
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 2, 230
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+back/L_lower_arm_back
+  rotate: false
+  xy: 154, 2
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+back/L_hand_back
+  rotate: false
+  xy: 147, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+L_lower_arm
+  rotate: false
+  xy: 123, 2
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+B_hat
+  rotate: false
+  xy: 2, 2
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+upper_skirt
+  rotate: false
+  xy: 27, 230
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+back/head_back
+  rotate: false
+  xy: 2, 55
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+R_upper_arm
+  rotate: false
+  xy: 160, 2
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+left_boot
+  rotate: false
+  xy: 48, 185
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+right_boot
+  rotate: false
+  xy: 134, 185
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 147, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+back/screw_driver_back
+  rotate: false
+  xy: 48, 55
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+back/torso_back
+  rotate: false
+  xy: 73, 55
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+back/R_hand_back
+  rotate: false
+  xy: 114, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+screw_driver
+  rotate: false
+  xy: 149, 185
+  size: 101, 39
+  orig: 101, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+chest_pipes_thigh_pipes.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+offset: 0, 0
+chest_powerscrew_pipes_to_engineNOCOLOR
+  rotate: false
+  xy: 4, 764
+  size: 1027, 1058
+  orig: 1027, 1058
+  offset: 0, 0
+  index: -1
+chest_bottomleft_mechanisms75
+  rotate: false
+  xy: 4, 4
+  size: 1152, 754
+  orig: 1152, 754
+  offset: 0, 0
+  index: -1
+thigh_mechanisms_and_pipesNOCOLOR
+  rotate: false
+  xy: 1037, 764
+  size: 608, 1052
+  orig: 608, 1052
+  offset: 0, 0
+  index: -1

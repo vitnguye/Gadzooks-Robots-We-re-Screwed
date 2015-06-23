@@ -1,0 +1,34 @@
+<entity>
+   	<category>Player</category>
+	<atlas>red_male_atlas</atlas>
+	<animator>spine</animator>
+	<color>red</color>
+	<gender>male</gender>
+	<initialAnim>idle</initialAnim>
+	<originX>64.0f</originX>
+	<originY>64.0f</originY>
+	<spriteScaleX>1.0f</spriteScaleX>
+	<spriteScaleY>1.0f</spriteScaleY>
+	<tintRed>1.0f</tintRed>
+	<tintGreen>1.0f</tintGreen>
+	<tintBlue>1.0f</tintBlue>
+	<tintAlpha>1.0f</tintAlpha>
+	
+	<body>playerTest</body>
+	<density>0.2</density>
+	<friction>0.0f</friction>
+	<restitution>0.0f</restitution>
+	<bodyScale>0.45f</bodyScale>
+	<fixedRotation>true</fixedRotation>
+	<sound>jump:/common/sounds/jump.ogg</sound>
+	<sound>jump:/common/sounds/jumpMale2.ogg</sound>
+	<sound>death:/common/sounds/deathMaleGah.ogg</sound>
+	<sound>death:/common/sounds/deathMaleUgh.ogg</sound>
+	<sound>death:/common/sounds/deathMaleOw.ogg</sound>
+	<sound>footstep1:/common/sounds/footstep1.ogg</sound>
+	<sound>footstep2:/common/sounds/footstep2.ogg</sound>
+	<sound>land:/common/sounds/land.ogg</sound>
+	<sound>hit:/common/sounds/impactMaleDoh.ogg</sound>
+	<sound>hit:/common/sounds/impactMaleDoh2.ogg</sound>
+	<sound>revive:/common/sounds/rezzFinish.ogg: volume 0.35f</sound>
+</entity>

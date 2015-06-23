@@ -1,0 +1,183 @@
+## Common assets loaded once on the game's boot up.
+## Please clean out your old assets!!
+
+## Notes: Always put the @ options in the beginning of these
+## index files or the loading bar will be interrupted
+
+##Default robot textures:
+@ bg /levels/alphabot/alphabot-interior.png
+@ outline /levels/alphabot/alphabot-outline.png
+@ fg /levels/alphabot/alphabot-fg.png
+@ tilecolor 255 255 255
+
+
+##sounds
+#/common/sounds/inceptionbutton.mp3
+/common/sounds/jump.ogg
+/common/sounds/jumpMale2.ogg
+/common/sounds/deathMaleGah.ogg
+/common/sounds/deathMaleUgh.ogg
+/common/sounds/deathMaleOw.ogg
+/common/sounds/deathFemaleUgh.ogg
+/common/sounds/deathFemaleUeh.ogg
+/common/sounds/deathFemaleOoh.ogg
+/common/sounds/jumpFemale.ogg
+/common/sounds/jumpFemale2.ogg
+/common/sounds/footstep1.ogg
+/common/sounds/footstep2.ogg
+/common/sounds/footstep1F.ogg
+/common/sounds/footstep2F.ogg
+/common/sounds/screwing.ogg
+/common/sounds/unscrewing.ogg
+/common/sounds/screwAtt.ogg
+/common/sounds/screwDet.ogg
+/common/sounds/land.ogg
+/common/sounds/creak.ogg
+/common/sounds/fallingObject.ogg
+/common/sounds/impactMaleDoh.ogg
+/common/sounds/impactMaleDoh2.ogg
+/common/sounds/impactFemaleAh.ogg
+/common/sounds/impactFemaleOph.ogg
+/common/sounds/impactFemaleUgh.ogg
+/common/sounds/rezzScrew.ogg
+/common/sounds/rezzFinish.ogg
+#/common/sounds/WilhelmScream.ogg
+/common/sounds/steam.ogg
+/common/sounds/flames.ogg
+/common/sounds/chain1.ogg
+/common/sounds/chain2.ogg
+/common/sounds/chain3.ogg
+/common/sounds/frontswing.ogg
+/common/sounds/backswing.ogg
+/common/sounds/switchOn.ogg
+/common/sounds/switchOff.ogg
+#/common/sounds/TrainJob.mp3
+#/common/sounds/loopTrain.mp3
+#/common/sounds/introTrain.mp3
+/menu/move.ogg
+/menu/select.ogg
+#/levels/alphabot/sounds/Engine.ogg
+
+/common/tileset/TilesetTest.png
+/common/title_background_clear.png
+
+
+
+/common/moustache.png
+
+/common/gear.png
+/common/sawblade.png
+
+#delete these when final art comes in
+/common/powerswitches/on.png
+/common/powerswitches/off.png
+
+##texture atlas
+##please use texture packer to put all common textures in this pack file!
+/common/common-textures.pack
+/common/animations/screwInterface.pack
+/common/tileset1.pack
+/common/TilesetTest.pack
+/common/autumn.pack
+/common/gears.pack
+/common/tileset/alphabot.pack
+/common/tileset/white.pack
+/common/spine/red_female_atlas.pack
+/common/spine/red_male_atlas.pack
+/common/spine/rez_chamber_atlas.pack
+/particles/particles.pack
+
+##Fonts
+/debug/debug_font.fnt
+/fonts/longdon.fnt
+
+#slides
+## TODO: unload these during the level
+/common/slides/slide1_dragonOut.png
+/common/slides/slide0_intro_text.png
+/common/slides/slide1_intro.png
+/common/slides/slide2_audience.png
+/common/slides/slide3_alphabot.png
+/common/slides/slide4_players.png
+/common/slides/slide1_intro_text.png
+/common/slides/slide2_audience_text.png
+/common/slides/slide3_alphabot_text.png
+/common/slides/slide4_players_text.png
+
+/common/slides/slide1_dragon.png
+/common/slides/slide2_dragon.png
+/common/slides/slide3_dragon.png
+/common/slides/slide4_dragon.png
+/common/slides/slide5_dragon.png
+/common/slides/slide6_dragon.png
+/common/slides/slide0_dragon_text.png
+/common/slides/slide1_dragon_text.png
+/common/slides/slide2_dragon_text.png
+/common/slides/slide3_dragon_text.png
+/common/slides/slide4_dragon_text.png
+/common/slides/slide5_dragon_text.png
+/common/slides/slide6_dragon_text.png
+
+
+/common/slides/slide1_outro.png
+/common/slides/slide2_outro.png
+/common/slides/slide3_outro.png
+/common/slides/slide4_outro.png
+/common/slides/slide5_outro.png
+/common/slides/slide6_outro.png
+/common/slides/slide7_outro.png
+/common/slides/slide8_outro.png
+/common/slides/slide9_outro.png
+/common/slides/slide10_outro.png
+
+##Particle effects
+skid_left.p
+skid_right.p
+sparks.p
+steam.p
+revive.p
+land_cloud.p
+injured/arg.p
+injured/doof.p
+injured/oof.p
+fastSteam.p
+slowSteam.p
+fire.p
+fire_new.p
+mouth_fire.p
+cannon.p
+smoke_puff_small.p
+/fire/fire_tiny.p
+ghost_spark.p
+ghost_fount.p
+
+##Palette Def
+##Define with <colorName>.palette
+##These are used to select bleed effects
+gold.palette
+white.palette
+black.palette
+grey.palette
+
+/common/tutorial/thought_bubble.png
+
+/common/title_background.png
+
+/common/tutorial/dubba0.png
+/common/tutorial/dubba1.png
+/common/tutorial/dubba2.png
+/common/tutorial/move_jump0.png
+/common/tutorial/move_jump1.png
+/common/tutorial/screw_ready0.png
+/common/tutorial/screw_ready1.png
+/common/tutorial/screw_ready2.png
+/common/tutorial/switch0.png
+/common/tutorial/switch1.png
+/common/tutorial/death0.png
+/common/tutorial/death1.png
+
+##Trophy icons
+/common/trophies/trophy.png
+
+##transition images
+/transitions/trans-gear.png
